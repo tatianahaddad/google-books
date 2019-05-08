@@ -1,0 +1,9 @@
+.header {
+  height: 200px;
+  background-color: black;
+}
+
+.google-header {
+  color: white;
+  padding: 2em;
+}
